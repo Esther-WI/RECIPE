@@ -1,9 +1,34 @@
-h1 {color:blueviolet;
+h1 {color:black;
 position: absolute;
-left: 10cm;}
-img {
-    width: 10cm;
+left: 300px;}
+.womanchef{
+    width: 200px;;
 height: 5cm;
 position: absolute;
-left:10cm;
-top: 2cm;}
+left:100px;
+top: 2opx;}
+.ing{position: absolute;
+left: 300px;
+top: 45px;
+color: blue;}
+ol {position: absolute;
+left: 300px;
+top:80px;
+color: blueviolet;}
+.food{height: 150px;
+width: 500px;
+height: 250px;
+position: absolute;
+left: 300px;
+top:250px}
+.title {position: absolute;
+top: 250px;
+font-size: 50px;
+color: cadetblue;}
+.proc{position: absolute;
+    left: 300px;
+    top: 500px;
+    color: blue;
+    font-size: 50px;}
+    ul {position: absolute;
+    margin-top: 600px;}
